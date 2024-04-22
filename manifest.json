@@ -1,0 +1,22 @@
+{
+  "theme_color": "#de3f80",
+  "background_color": "#17050a",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Thopgames",
+  "short_name": "Thopgames",
+  "description": "Play Thop Games online",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/Game/launch-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
